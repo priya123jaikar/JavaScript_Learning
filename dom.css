@@ -1,0 +1,39 @@
+h1{
+    color: rgb(12, 10, 10);
+    background-color: rgb(236, 135, 155);
+}
+body {
+    background-color: rgb(233, 173, 185);
+}
+button{
+    background-color: rgb(247, 116, 142);
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 3px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: rgb(241, 116, 141);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    color: red;
+}
+
+.newClass{
+    background-color: green;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: #000;
+}
